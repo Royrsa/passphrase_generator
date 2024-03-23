@@ -1,1 +1,3 @@
-# passphrase_generator
+## passphrase_generator
+
+## Usage
